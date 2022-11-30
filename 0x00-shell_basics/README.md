@@ -27,3 +27,6 @@ It deletes the file betty
 
 9-firstdirdeletion file
 It deletes a directory named my_first_directory in the /tmp/ directory
+
+10-back
+It changes the working directory to the previous one
