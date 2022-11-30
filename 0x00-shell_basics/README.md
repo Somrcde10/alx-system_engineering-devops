@@ -21,3 +21,6 @@ It creates a directory named my_first_directory in the /tmp/ directory
 
 7-movethatfile file
 It moves the file 'betty' from /tmp/ to /tmp/my_first_directory
+
+8-firstdelete file
+It deletes the file betty
