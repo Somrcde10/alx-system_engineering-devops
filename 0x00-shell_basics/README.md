@@ -9,3 +9,6 @@ It changes the working directory to the user's home directory
 
 3-listfiles file
 Display current directory content in a long format
+
+4-listmorefiles file
+Display current directory content, including hidden files (starting with .)
