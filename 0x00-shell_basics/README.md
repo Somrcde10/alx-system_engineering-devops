@@ -16,5 +16,8 @@ Display current directory content, including hidden files (starting with .)
 5-listfilesdigitonly file
 Display current directory content, including hidden files (starting with .), in a long format and with user and group ID displayed numerically
 
-6-first directory
+6-firstdirectory file
 It creates a directory named my_first_directory in the /tmp/ directory
+
+7-movethatfile file
+It moves the file 'betty' from /tmp/ to /tmp/my_first_directory
