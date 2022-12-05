@@ -28,3 +28,6 @@ This script writes the results of the command ls -la into the file ls_cwd_conten
 
 9-duplicate_last_line
 This script duplicates the last line of the file iacta
+
+10-no_moew_js
+This script deletes all the files with a .js extension
