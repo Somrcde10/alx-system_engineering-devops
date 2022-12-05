@@ -31,3 +31,6 @@ This script duplicates the last line of the file iacta
 
 10-no_moew_js
 This script deletes all the files with a .js extension
+
+11-directories
+This script counts the number of directories and sub-directories in the current directory
