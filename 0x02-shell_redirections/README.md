@@ -9,3 +9,6 @@ This script displays the content of the file /etc/passwd
 
 3-twofiles
 This script displays the content of /etc/passwd and /etc/hosts
+
+4-lastlines
+This script display the last 10 lines of the file named /etc/passwd
