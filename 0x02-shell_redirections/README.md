@@ -61,3 +61,6 @@ This script replaces all characters "A" and "c" from input to "Z" and "e" respec
 
 20-hiago
 This script removes all letters "C" and "c" from input
+
+21-reverse
+This script reverses its input
